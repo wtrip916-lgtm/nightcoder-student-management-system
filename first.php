@@ -47,7 +47,7 @@ while ($runAgain) {
     } elseif ($marks >= 50) {
         echo "pass\n";
     } else {
-        echo "needs improvment\n";
+        echo "needs improvement\n";
     }
     if (!$loggedIn) {
         echo "please login\n";
